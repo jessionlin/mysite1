@@ -1,0 +1,16 @@
+@charset "utf-8";
+.row ul{
+	width: 200px;
+	height: auto;
+}
+.row li{
+	width: 100%;
+	height: 56px;
+}
+.nav_active{
+	background-color: #eee;
+	color: white;
+}
+.nac li li:hover{
+	background-color: #eee;
+}
